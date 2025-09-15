@@ -1,0 +1,9 @@
+name: CPSLimiterHQ
+version: 1.0
+main: com.cpslimiterhq.CPSLimiterHQ
+api-version: 1.8
+
+commands:
+  cpshq:
+    description: Reload Config.
+    usage: /cpshq reload

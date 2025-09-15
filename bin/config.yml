@@ -1,0 +1,12 @@
+# Configuración del plugin CPSLimiterHQ
+
+# Límite de clicks por segundo permitidos
+cps-limit: 15
+
+# Tiempo en segundos que se bloquea el PvP si supera el límite
+penalty-seconds: 5
+
+# Mensajes personalizados
+messages:
+  warning: "&c⚠️ Estás haciendo demasiados clicks. PvP deshabilitado por %time% segundos."
+  restore: "&a✅ Puedes volver a hacer PvP."
